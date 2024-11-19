@@ -41,3 +41,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+git add .  # Menambahkan semua file yang dimodifikasi
+git commit -m "Update launch.json"
+
